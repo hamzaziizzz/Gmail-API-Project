@@ -2,7 +2,7 @@
 
 **Step-1)** Create an account on [Google Cloud Platform](https://cloud.google.com/)
 
-![img1](img\img1.png)
+![img1](img/img1.png)
 
 Enter the relevant details regarding to your account and complete the Google Cloud Account using your organization’s email id.
 
@@ -10,43 +10,43 @@ Enter the relevant details regarding to your account and complete the Google Clo
 
 **Step-2)** Create a new project called Gmail API Project
 
-![img2](img\img2.png)
+![img2](img/img2.png)
 
 **Step-3)** Select the created project from the top pane.
 
-![img3](img\img3.png)
+![img3](img/img3.png)
 
 **Step-4)** Type Gmail API in the search prompt and select Gmail APi from Marketplace.
 
-![img4](img\img4.png)
+![img4](img/img4.png)
 
 **Step-5)** Enable Gmail API
 
-![img5](img\img5.png)
+![img5](img/img5.png)
 
 **Step-6)** Click OAuth Consent Scree from the side menu bar and select Internal.
 
-![img6](img\img6.png)
+![img6](img/img6.png)
 
 **Step-7)** Click on the Create button. Then, fill the required fields as per your project concerns.
 
-![img7](img\img7.png)
+![img7](img/img7.png)
 
 **Step-8)** Click Save and Continue, and finally Back to Dashboard. You will see a screen something like this.
 
-![img8](img\img8.png)
+![img8](img/img8.png)
 
 **Step-9)** Navigate to credentials window by clicking on Credentials menu from the sidebar.
 
-![img9](img\img9.png)
+![img9](img/img9.png)
 
 **Step-10)** Click on + CREATE CREDENTIALS and select OAuth Client ID. Select your application type and input name for your application.
 
-![img10](img\img10.png)
+![img10](img/img10.png)
 
 **Step-11)** Click on Create button and Download JSON.
 
-![img11](img\img11.png)
+![img11](img/img11.png)
 
 **Step-12)** Now create a project directory.
 
@@ -206,4 +206,4 @@ python3 send_mail.py
 
 At the first time you will be prompted to enter you Google account credentials. Use the same credentials that you used to sign up in Google Cloud.
 
-![img12](img\img12.png)
+![img12](img/img12.png)
