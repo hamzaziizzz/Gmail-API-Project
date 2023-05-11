@@ -55,7 +55,7 @@ pip3 install --upgrade google-api-python-client google-auth-httplib2 google-auth
 **Step-15)** Move the client secret (`client_secrets.json`) downloaded in step 8 to `gmail_api/` directory and do not share this file anywhere else since your Gmail account can be accessed by anyone using these credentials.
 
 **Step-16)** Create a new python file inside `gmail_api/` titled `send_mail.py`
-```code
+```python
 """
 This module sends emails with attachments to the participants
 Reference - https://developers.google.com/gmail/api/quickstart/python
